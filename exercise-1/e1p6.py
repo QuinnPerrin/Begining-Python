@@ -1,9 +1,7 @@
-"""
-6.	Write a program which will ask for three numbers, save them in three different variables and will then print out the three numbers, the total and the average in the following format:
-
-The numbers were ___, ____ and _____
-The total of these numbers is ___________
-The average of these numbers is _____________
-
-
-"""
+num1 = int(input("what is your first number\n"))  
+num2 = int(input("what is your second number\n"))
+num3 = int(input("what is your third number\n"))  
+total = num1 + num2 + num3
+print(f" The three numbers were {num1}, {num2}, {num3}")
+print(f" The total of the numbers is {total}")
+print(f" The average of the three numbers is {total/3}")

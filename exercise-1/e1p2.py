@@ -1,4 +1,2 @@
-"""
-2.	Write a program that will ask the users name, save it in a variable and will then printout 
-Hello ____ 
-"""
+name = input("what is your name? \n")
+print("hello, " + name)

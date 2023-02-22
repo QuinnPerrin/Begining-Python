@@ -1,3 +1,3 @@
-"""
-1.	Wrie a program that will print out your name, address and telephone number each on a separate line.
-"""
+print("Quinn")
+print("02102611450")
+print("bay of islands kerikeri")
